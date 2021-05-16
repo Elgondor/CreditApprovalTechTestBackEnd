@@ -3,8 +3,8 @@
         "model": "api.Client",
         "pk": 1,
         "fields":{
+            "name": "Jhimy Brandon Vallejos Silva",
             "SBS_debt": 15000,
-            "client_score": 1,
             "sentinel_score": 1
         }
     },
@@ -12,35 +12,44 @@
         "model": "api.Client",
         "pk": 2,
         "fields":{
+            "name": "Pedrito Fernandez",
             "SBS_debt": 53000,
-            "client_score": 2,
-            "sentinel_score": 1
+            "sentinel_score": 3
         }
     },
     {
         "model": "api.Client",
         "pk": 3,
         "fields":{
+            "name": "Tonny Stark",
             "SBS_debt": 27000,
-            "client_score": 2,
-            "sentinel_score": 1
+            "sentinel_score": 2
         }
     },
     {
         "model": "api.Client",
         "pk": 4,
         "fields":{
+            "name": "Eddard Stark",
             "SBS_debt": 43000,
-            "client_score": 2,
-            "sentinel_score": 1
+            "sentinel_score": 2
         }
     },
     {
         "model": "api.Client",
         "pk": 5,
         "fields":{
+            "name": "Jon Snow",
             "SBS_debt": 49500,
-            "client_score": 2,
+            "sentinel_score": 3
+        }
+    },
+    {
+        "model": "api.Client",
+        "pk": 6,
+        "fields":{
+            "name": "Amelia Earhart",
+            "SBS_debt": 58000,
             "sentinel_score": 1
         }
     }

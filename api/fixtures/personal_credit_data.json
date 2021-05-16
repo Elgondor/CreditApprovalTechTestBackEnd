@@ -1,10 +1,91 @@
 [
     {
         "model": "api.PersonalCredit",
-        "pk": 5,
+        "pk": 1,
         "fields":{
             "client": 1,
+            "amount": 48222,
+            "approvement": "False"
+        }
+    },
+    {
+        "model": "api.PersonalCredit",
+        "pk": 2,
+        "fields":{
+            "client": 2,
             "amount": 2000,
+            "approvement": "False"
+        }
+    },
+    {
+        "model": "api.PersonalCredit",
+        "pk": 3,
+        "fields":{
+            "client": 3,
+            "amount": 7894,
+            "approvement": "False"
+        }
+    },
+    {
+        "model": "api.PersonalCredit",
+        "pk": 4,
+        "fields":{
+            "client": 4,
+            "amount": 1000,
+            "approvement": "True"
+        }
+    },
+    {
+        "model": "api.PersonalCredit",
+        "pk": 5,
+        "fields":{
+            "client": 5,
+            "amount": 2000,
+            "approvement": "True"
+        }
+    },
+    {
+        "model": "api.PersonalCredit",
+        "pk": 6,
+        "fields":{
+            "client": 6,
+            "amount": 17000,
+            "approvement": "False"
+        }
+    },
+    {
+        "model": "api.PersonalCredit",
+        "pk": 7,
+        "fields":{
+            "client": 5,
+            "amount": 7000,
+            "approvement": "False"
+        }
+    },
+    {
+        "model": "api.PersonalCredit",
+        "pk": 8,
+        "fields":{
+            "client": 5,
+            "amount": 8900,
+            "approvement": "True"
+        }
+    },
+    {
+        "model": "api.PersonalCredit",
+        "pk": 9,
+        "fields":{
+            "client": 4,
+            "amount": 9000,
+            "approvement": "False"
+        }
+    },
+    {
+        "model": "api.PersonalCredit",
+        "pk": 10,
+        "fields":{
+            "client": 6,
+            "amount": 4600,
             "approvement": "False"
         }
     }
