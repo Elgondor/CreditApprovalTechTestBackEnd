@@ -1,0 +1,47 @@
+[
+    {
+        "model": "api.Client",
+        "pk": 1,
+        "fields":{
+            "SBS_debt": 15000,
+            "client_score": 1,
+            "sentinel_score": 1
+        }
+    },
+    {
+        "model": "api.Client",
+        "pk": 2,
+        "fields":{
+            "SBS_debt": 53000,
+            "client_score": 2,
+            "sentinel_score": 1
+        }
+    },
+    {
+        "model": "api.Client",
+        "pk": 3,
+        "fields":{
+            "SBS_debt": 27000,
+            "client_score": 2,
+            "sentinel_score": 1
+        }
+    },
+    {
+        "model": "api.Client",
+        "pk": 4,
+        "fields":{
+            "SBS_debt": 43000,
+            "client_score": 2,
+            "sentinel_score": 1
+        }
+    },
+    {
+        "model": "api.Client",
+        "pk": 5,
+        "fields":{
+            "SBS_debt": 49500,
+            "client_score": 2,
+            "sentinel_score": 1
+        }
+    }
+]
